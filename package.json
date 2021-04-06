@@ -1,0 +1,21 @@
+{
+  "name": "discord-v12-bos-altyapi",
+  "version": "0.0.1",
+  "description": "DiscordJS V12 Boş Altyapı",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
